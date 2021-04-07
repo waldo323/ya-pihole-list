@@ -9,7 +9,7 @@
 ## Quickstart
 ```
 cd ~
-git clone --depth=1 https://github.com/JavanXD/ya-pihole-list.git ya-pihole-list
+git clone --depth=1 https://github.com/waldo323/ya-pihole-list.git ya-pihole-list
 cd ya-pihole-list
 sudo chmod a+x adlists-updater.sh
 sudo sh adlists-updater.sh
